@@ -18,6 +18,7 @@ public class WeekTwoTuseday {
         
         System.out.println("Learning Github");
         System.out.println("Second Message");
+        System.out.println("Third Message");
     }
     
 }
